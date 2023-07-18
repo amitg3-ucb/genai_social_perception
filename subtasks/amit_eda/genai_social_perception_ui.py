@@ -1,19 +1,11 @@
 import pandas as pd
 import numpy as np
 import altair as alt
-import matplotlib.pyplot as plt
-import seaborn as sns
 import networkx as nx
 import nx_altair as nxa
-import tensorflow as tf
-import keras as k
 import pickle
 import itertools
 
-from sklearn.cluster import KMeans, DBSCAN, AgglomerativeClustering
-from sklearn.decomposition import PCA
-from sklearn.manifold import TSNE
-from sklearn.preprocessing import StandardScaler
 import gc
 import time
 import datetime as dt
