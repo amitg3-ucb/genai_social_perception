@@ -1,7 +1,5 @@
 altair==4.2.0
 gif==3.0.0
-ipython==8.4.0
-ipython==8.12.0
 keras==2.9.0
 keras_nightly==2.5.0.dev2021032900
 matplotlib==3.7.1
